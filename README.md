@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Manan Meemroth, a CSE undergrad at IIT Mandi (Batch '28).<br>🚀 I build projects in machine learning, blockchain, and web development.<br>🔧 Always learning, always building — check out my pinned projects below!
+👋 Hi, I’m Manan, a CSE undergrad at IIT Mandi (Batch '28).<br>🚀 I build projects in machine learning, blockchain, and web development.<br>🔧 Always learning, always building — check out my pinned projects below!
 
 
 ## 🌐 Socials:
